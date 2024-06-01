@@ -1,0 +1,14 @@
+C:\Users\박성현\source\repos\ConsoleApp11\bin\Release\net8.0\ConsoleApp11.exe
+C:\Users\박성현\source\repos\ConsoleApp11\bin\Release\net8.0\ConsoleApp11.deps.json
+C:\Users\박성현\source\repos\ConsoleApp11\bin\Release\net8.0\ConsoleApp11.runtimeconfig.json
+C:\Users\박성현\source\repos\ConsoleApp11\bin\Release\net8.0\ConsoleApp11.dll
+C:\Users\박성현\source\repos\ConsoleApp11\bin\Release\net8.0\ConsoleApp11.pdb
+C:\Users\박성현\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\박성현\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\박성현\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.AssemblyInfo.cs
+C:\Users\박성현\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\박성현\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.dll
+C:\Users\박성현\source\repos\ConsoleApp11\obj\Release\net8.0\refint\ConsoleApp11.dll
+C:\Users\박성현\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.pdb
+C:\Users\박성현\source\repos\ConsoleApp11\obj\Release\net8.0\ConsoleApp11.genruntimeconfig.cache
+C:\Users\박성현\source\repos\ConsoleApp11\obj\Release\net8.0\ref\ConsoleApp11.dll
